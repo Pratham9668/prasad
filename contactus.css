@@ -1,0 +1,33 @@
+.jumbotron{
+	background: linear-gradient(to bottom,#00ffdd,cornflowerblue);
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.logo{
+	float: right;
+}
+
+.form-horizontal{
+	display: none;
+	width: 50%;
+}
+
+.well{
+	/*text-align: center;*/
+}
+
+.btn:hover{
+	background-color: orange;
+}
+
+.map{
+	float: right;
+	margin-left: 100px;
+	width: 41%;
+	display: none;
+	border: 1px solid grey;
+
+
+}

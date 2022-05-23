@@ -1,0 +1,40 @@
+.jumbotron{
+	background: linear-gradient(to bottom,#00ffdd,cornflowerblue);
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.logo{
+	float: right;
+}
+
+a,.btn{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.row{
+	display: none;
+}
+
+.btn-info{
+	margin-bottom: 10px;
+}
+
+.prod{
+	background-color: white;
+}
+
+h4{
+	text-decoration: underline;
+	color: cornflowerblue;
+}
+
+span{
+	padding: 0px 5px 0px 0px;
+}
